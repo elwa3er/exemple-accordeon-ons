@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "role": "admin",
+      "url": "https://startbootstrap.com/previews/sb-admin-2"
+    },
+     {
+      "id": 2,
+      "role": "client",
+      "url": "https://startbootstrap.com/previews/sb-admin-2"
+    },
+     {
+      "id": 1,
+      "role": "expert",
+      "url": "https://startbootstrap.com/previews/sb-admin-2"
+    }
+  ]
+}
